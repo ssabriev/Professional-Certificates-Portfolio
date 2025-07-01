@@ -37,6 +37,6 @@ This repository is licensed under the
 
 ## 📬 Contact
 
-If you'd like to connect or collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/sunay-sabriev) or through the contact section of my main GitHub profile.
+If you'd like to connect or collaborate, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sunay-sabriev/) or through the contact section of my main GitHub profile.
 
 © 2025 SUNAY SABRIEV
