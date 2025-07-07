@@ -1,8 +1,19 @@
-# 📚 "752 Books for Chitalishte 'Prosveta' in Glodzhevo (Community Cultural Center)" - Donation Campaign
+# <div align="center"> 📚 "752 Books for Chitalishte 'Prosveta' in Glodzhevo (Community Cultural Center)" - Donation Campaign </div>
 
-## 🏅 Recognition  
-**Certificate of Appreciation**  
-Awarded *"as a sign of recognition for the contribution of Sunay Sabriev to the enrichment of the library fund and the development of the cultural community center in Glodzhevo, Bulgaria."*
+## <div align="center"> 🏅 Recognition </div>
+
+## <div align="center"> **Certificate of Appreciation**  </div>
+
+<div align="center">
+  <img src="Certificate%20of%20Appreciation%20Books%20For%20Glodzhevo.jpg" alt="Certificate of Appreciation" width="400"/>
+</div>
+
+
+
+
+
+ 
+<div align="center"> Awarded *"as a sign of recognition for the contribution of Sunay Sabriev to the enrichment of the library fund and the development of the cultural community center in Glodzhevo, Bulgaria." </div>
 
 ---
 
